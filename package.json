@@ -1,0 +1,16 @@
+{
+    "name": "collage-imagenes",
+    "version": "1.0.0",
+    "description": "Un proyecto para subir y gestionar un collage de imágenes",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+    "start": "node index.js"
+    },
+    "author": "Camila Arancibia A",
+    "license": "ISC",
+    "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+    }
+}

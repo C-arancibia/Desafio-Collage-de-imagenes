@@ -1,0 +1,10 @@
+node_modules
+public/imgs/*
+!public/imgs/imagen-1.jpg
+!public/imgs/imagen-2.jpg
+!public/imgs/imagen-3.jpg
+!public/imgs/imagen-4.jpg
+!public/imgs/imagen-5.jpg
+!public/imgs/imagen-6.jpg
+!public/imgs/imagen-7.jpg
+!public/imgs/imagen-8.jpg
